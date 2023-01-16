@@ -2,6 +2,7 @@
   "name": "layla_portafolio",
   "private": true,
   "version": "0.0.0",
+  "author": "Gerset Linarez",
   "type": "module",
   "scripts": {
     "dev": "vite",
